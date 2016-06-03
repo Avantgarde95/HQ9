@@ -61,7 +61,7 @@ if __name__ == '__main__':
             p = open(filename, 'r')
         except IOError:
             print 'Can\'t open the file [%s]!' % filename
-            sys.exit(-1)
+            sys.exit(1)
 
         source = p.read()
         interpret(source)
