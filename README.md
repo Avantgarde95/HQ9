@@ -14,3 +14,6 @@ Simple implementation of HQ9+ (https://esolangs.org/wiki/HQ9+) in python.
 
 - In the REPL mode, you can type "exit" to exit the REPL.
 
+Screenshot(s)
+
+![Screenshot](https://raw.githubusercontent.com/Avantgarde95/HQ9/master/Screenshot.png)
